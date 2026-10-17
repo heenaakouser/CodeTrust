@@ -1,5 +1,10 @@
+# basic sum
 2 3|5
+# opposite signs
 -1 1|0
+# zeros
 0 0|0
+# negatives
 -2 -4|-6
+# larger values
 10 20|30

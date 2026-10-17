@@ -1,3 +1,27 @@
+# Binaries / build
 codetrust
+build/
+*.o
+
+# Generated reports / job workspaces
 report.txt
+data/runs/*
+!data/runs/.gitkeep
+data/jobs/*
+!data/jobs/.gitkeep
+
+
+# Web
+web/node_modules/
+web/dist/
+
+# OS / editor
 .DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Misc
+*.log
+.env
+.env.local

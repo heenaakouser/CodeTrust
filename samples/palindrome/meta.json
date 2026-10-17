@@ -1,0 +1,5 @@
+{
+  "title": "Palindrome Check",
+  "description": "Read a word and print YES if it is a palindrome, otherwise NO.",
+  "generator": "palindrome"
+}

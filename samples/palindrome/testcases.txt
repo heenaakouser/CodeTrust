@@ -1,0 +1,8 @@
+# simple yes
+radar|YES
+# simple no
+hello|NO
+# single char
+a|YES
+# even length
+abba|YES

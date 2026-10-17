@@ -1,0 +1,5 @@
+{
+  "title": "Integer Addition",
+  "description": "Read two integers a and b from stdin and print a + b on a single line.",
+  "generator": "add"
+}

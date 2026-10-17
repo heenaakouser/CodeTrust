@@ -1,0 +1,5 @@
+{
+  "title": "Factorial",
+  "description": "Read n (0..12) and print n!.",
+  "generator": "factorial"
+}
